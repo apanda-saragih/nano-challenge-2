@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Chevrolet Corvette",
+    "image": "chevrolet-corvette",
+    "description": "The Chevrolet Corvette is an iconic American sports car that has captivated automotive enthusiasts for decades. Renowned for its striking design, exhilarating performance, and rich heritage, the Corvette embodies the spirit of American muscle and precision engineering. With its powerful V8 engine, sleek aerodynamics, and advanced technology, the Corvette offers an unrivaled driving experience. Whether tearing up the track or cruising along scenic roads, the Corvette remains a symbol of performance and style, cementing its status as a timeless icon in the automotive world."
+  },
+  {
+    "id": 3,
+    "name": "BMW M3 E30",
+    "image": "bmw-m3-e30",
+    "description": "The BMW M3 E30 is a legendary sports car that has left an indelible mark in the automotive realm. Introduced in the late 1980s, the M3 E30 quickly gained a reputation for its dynamic performance and exceptional handling. Powered by a high-revving four-cylinder engine delivering impressive power, the M3 E30 showcased BMW's commitment to motorsport-inspired engineering. Its distinctive boxy yet aggressive styling, combined with aerodynamic enhancements, further emphasized its sporting character. The M3 E30's success on the racetrack and its limited production numbers have elevated its status among enthusiasts, making it a highly sought-after classic that continues to evoke admiration and excitement."
+  },
+  {
+    "id": 4,
+    "name": "Ford Mustang 1965",
+    "image": "ford-mustang-1965",
+    "description": "The Ford Mustang 1965 holds an iconic status as a symbol of American muscle and timeless automotive design. Introduced during the peak of the American muscle car era, the Mustang quickly captured the hearts of enthusiasts with its bold and aggressive styling, long hood, and short rear deck. With a range of powerful engine options and its accessible price point, the Mustang became an instant sensation, creating a new segment known as the pony car. Its exhilarating performance, exhilarating exhaust note, and thrilling driving experience have solidified its place in automotive history. The Mustang's cultural impact and enduring popularity have made it an enduring symbol of freedom, individuality, and the spirit of the open road."
+  },
+  {
+    "id": 5,
+    "name": "Toyota 4Runner",
+    "image": "toyota-4Runner",
+    "description": "The Toyota 4Runner is a rugged and capable SUV that has gained a reputation for its off-road prowess and reliability. With its robust body-on-frame construction, high ground clearance, and advanced four-wheel drive system, the 4Runner is well-equipped to tackle challenging terrains and adventurous expeditions. Whether it's traversing rocky trails or navigating city streets, the 4Runner offers a comfortable and spacious interior, accommodating both passengers and cargo with versatility. Its dependable nature and long-lasting durability have made it a popular choice among outdoor enthusiasts and families seeking a reliable and versatile vehicle. With a strong heritage and a commitment to performance and durability, the Toyota 4Runner continues to be a trusted companion for exploration and everyday adventures."
+  }
+]

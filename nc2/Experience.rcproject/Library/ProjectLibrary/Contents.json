@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "62ed8e10be39dcc69c8531f38c917663",
+    "format" : "model",
+    "displayName" : "Chevrolet_Corvette_C7.usdz"
+  },
+  {
+    "libraryIdentifier" : "325a3cad6e2eec7eb97f57b96edab221",
+    "format" : "model",
+    "displayName" : "Ford_Mustang_1965.usdz"
+  },
+  {
+    "libraryIdentifier" : "0aceb8cf7f97b060e3cb753261e85cad",
+    "format" : "model",
+    "displayName" : "Ferrari 550.usdz"
+  },
+  {
+    "libraryIdentifier" : "977b780ad1aea63a3d74cb31fd1aee46",
+    "format" : "model",
+    "displayName" : "BMW M3 E30.usdz"
+  },
+  {
+    "libraryIdentifier" : "9820bf109e709d343e2537fce9f7d10c",
+    "format" : "model",
+    "displayName" : "Toyota_4Runner_Mk4_Stock.usdz"
+  }
+]
